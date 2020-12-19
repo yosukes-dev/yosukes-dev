@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosukes-dev" alt="yosukes-dev" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosukes-dev&" alt="yosukes-dev" /></p>
-
 ---
 ### ⚡ Technologies
 
@@ -67,7 +62,9 @@ Here are some ideas to get you started:
 
 ### 📊 My stats
 
-<h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosukes-dev&theme=onedark" alt="yosukes-dev" /></a> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosukes-dev&theme=tokyonight" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=yosukes-dev&theme=tokyonight" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosukes-dev&theme=onedark" alt="yosukes-dev" /></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosukes-dev&theme=onedark" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=yosukes-dev&theme=onedark" /></a>
