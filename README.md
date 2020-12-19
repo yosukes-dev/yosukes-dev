@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000.svg?logo=powershell&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square)
+<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+<img alt="C#" src="https://img.shields.io/badge/-C%23-228b22?style=flat-square&logo=C&logoColor=white">
 ![Java](https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat-square)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000.svg?logo=yarn&style=flat-square)
