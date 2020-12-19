@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=flat-square)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
+![WSL](https://img.shields.io/badge/-WSL-000000.svg?logo=linux&style=flat-square)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000.svg?logo=powershell&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat-square)
 <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 
 ### 📊 My stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosukes-dev&theme=onedark" alt="yosukes-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosukes-dev&row=1&theme=onedark" alt="yosukes-dev" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosukes-dev&theme=onedark" alt="yosukes-dev" /></p>
 
